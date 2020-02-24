@@ -453,7 +453,7 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-	background: url('../img/header-bg.jpg') right bottom no-repeat;
+	background: url('../img/header-bg1.jpg') right bottom no-repeat;
 	background-size: contain;
 	padding:110px 0 100px 0;
 	height:auto;
@@ -463,7 +463,7 @@ table {
 	font-size: 120px;
 	letter-spacing: -8px;
 	margin: 0;
-	font-weight: 600;
+	font-weight: 550;
 	line-height: 95px;
 	text-transform: uppercase;
 }
